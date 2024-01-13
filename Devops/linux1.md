@@ -2,5 +2,5 @@
 
 ## PART 1: RUNNING BASIC COMMAND LINE OPERATIONS
 
-![](http://github.com/DEVOPS-1/Devops/cd.png)
+![](https://github.com/DEVOPS-1/Devops/cd.png)
 
