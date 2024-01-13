@@ -5,6 +5,6 @@
 ### FILE MANIPULATION
 SUDO COMMAND 
 [!TIP] This command lets you perform tasks that require adminstrative or root permission
-![](linux/cd.png)
+![](linux/sudo apt upgrade.png)
 
 
