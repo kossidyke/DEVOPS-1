@@ -2,6 +2,9 @@
 
 ## PART 1: RUNNING BASIC COMMAND LINE OPERATIONS
 
-![](linux/cd.png)
+### FILE MANIPULATION
+SUDO COMMAND 
+[!TIP] This command lets you perform tasks that require adminstrative or root permission
+![](/linux/sudo.png)
 
 
