@@ -6,5 +6,9 @@
 1) SUDO COMMAND 
 > This command lets you perform tasks that require adminstrative or root permission
 ![](linux/sudo.png)
+
+2) PWD COMMAND
+> This shows the full current working path
+![](linux/pwd.png) 
  
 
