@@ -1,7 +1,7 @@
 #    LINUX PROJECT INTRODUCTION
 
 ## PART 1: RUNNING BASIC COMMAND LINE OPERATIONS
-# 000000
+
 ### FILE MANIPULATION
 1) sudo COMMAND 
 > This command lets you perform tasks that require adminstrative or root permission
