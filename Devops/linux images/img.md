@@ -170,3 +170,32 @@
 ![](linux/useradd.png)
 
 ![](linux/useradd2.png)
+
+34) apt-get COMMAND
+> This command lets you retrieve information from authenticated sources to manage
+![](linux/apt-get.png)
+
+35) nano COMMAND
+> This allows users to modify files via the text editor
+
+![](linux/nano.png)
+
+36) alias COMMAND
+> This allows the user to replace one string with another while unalias deletes an alias
+
+![](linux/alias_unalias.png)
+
+37) su COMMAND
+> This allows you to run a program as a different user
+
+![](linux/su.png)
+
+38) htop COMMAND
+> This command is used to monitor system resources and server processes in real time
+
+![](linux/htop.png)
+
+39) ps COMMAND
+> This command provides an overview of all the running processes on the system
+
+![](linux/ps.png)
