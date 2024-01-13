@@ -6,5 +6,5 @@
 SUDO COMMAND 
 [!TIP] This command lets you perform tasks that require adminstrative or root permission
 ![](linux/sudo apt upgrade.png)
-
+ 
 
