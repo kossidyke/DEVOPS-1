@@ -9,6 +9,7 @@
 
 2) PWD COMMAND
 > This shows the full current working path
+
 ![](linux/pwd.png) 
  
 
