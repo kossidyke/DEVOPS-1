@@ -72,6 +72,101 @@
 
 ![](linux/grep.png)
 
+15) df COMMAND
+> This is used to show the systems disk space usage
 
+![](linux/df.png)
 
+16) du COMMAND
+> This is used to check how much space file takes up
 
+![](linux/du.png)
+
+17) head and tail COMMAND
+> The head command lets you view the first lines of a text while the tail command lets you view the bottom lines
+
+![](linux/headtail.png)
+
+18) diff COMMAND
+> The diff command compares two contents of a file line by line
+
+![](linux/diff.png)
+
+19) tar COMMAND
+> The tar command archives multiple files into a TAR file
+
+![](linux/tar.png)
+
+## FILE PERMISSION AND OWNERSHIP
+
+20) chmod COMMAND
+> This is a commmand that modifies a files read, write and execute permission
+
+![](linux/chmod.png)
+
+21) chown COMMAND
+> This command lets you change a files ownership to a specific name
+
+![](linux/chown.png)
+
+22) jobs COMMAND
+> This command shows all the current processes along with their status
+
+![](linux/jobs.png)
+
+23) kill COMMAND
+> This command is used to shut down an unresponsive program manually
+
+![](linux/kill.png)
+
+24) ping COMMAND
+> This is used to check whether a network or server is reachable
+
+![](linux/ping.png)
+
+25) wget COMMAND
+> This command is used to download files from the internet
+
+![](linux/wget.png)
+
+26) uname COMMAND
+> This command would show detailed information about your system and hardware
+
+![](linux/uname.png)
+
+27) top COMMAND
+> This command would show all the running processes and a real time view of the current system
+
+![](linux/top.png)
+
+28) history COMMAND
+> This shows the previous commands used on the system, allowing the user to re use easily
+
+![](linux/history.png)
+
+29) man COMMAND
+> This provides a user manual of commands that can be run on the terminal
+
+![](linux/man.png)
+
+30) echo COMMAND
+> This displays a line of tect using the standard output
+
+![](linux/echo.png)
+
+31) zip/unzip COMMAND
+> This lets you compress your files into a zip files while the unzip command allows you to extract it.
+
+![](linux/zip.png)
+
+32) hostname COMMAND
+> This command is run to know the systems hostname
+
+![](linux/hostname.png)
+
+33) useradd COMMAND
+> This is used to create a new account
+
+![](linux/useradd.png)
+
+![](linux/useradd2.png)
