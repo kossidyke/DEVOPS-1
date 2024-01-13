@@ -1,7 +1,7 @@
 #    LINUX PROJECT INTRODUCTION
 
 ## PART 1: RUNNING BASIC COMMAND LINE OPERATIONS
-
+# 000000
 ### FILE MANIPULATION
 1) sudo COMMAND 
 > This command lets you perform tasks that require adminstrative or root permission
@@ -178,7 +178,9 @@
 35) nano COMMAND
 > This allows users to modify files via the text editor
 
-![](linux/nano.png)
+![](linux/nano1.png)
+![](linux/nano2.png)
+
 
 36) alias COMMAND
 > This allows the user to replace one string with another while unalias deletes an alias
@@ -193,7 +195,9 @@
 38) htop COMMAND
 > This command is used to monitor system resources and server processes in real time
 
-![](linux/htop.png)
+![](linux/htop1.png)
+![](linux/htop2.png)
+
 
 39) ps COMMAND
 > This command provides an overview of all the running processes on the system
