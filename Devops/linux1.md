@@ -2,5 +2,4 @@
 
 ## PART 1: RUNNING BASIC COMMAND LINE OPERATIONS
 
-![](linux/cd.png)
 
