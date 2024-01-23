@@ -5,7 +5,7 @@
 ### FILE MANIPULATION
 1) sudo COMMAND 
 > This command lets you perform tasks that require adminstrative or root permission
-![](Devops/sudo.png)
+![](Devops/linux/sudo.png)
 
 2) pwd COMMAND
 > This shows the full current working path
